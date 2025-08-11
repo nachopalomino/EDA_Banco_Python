@@ -8,18 +8,18 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio de datos (E
 
 ## Estructura del Repositorio
 
+```plaintext
 EDA_Banco_Python/
 │
 ├── README.md
 ├── data/
-│ └── raw/
-│ ├── bank-additional.csv
-│ ├── customer-details.xlsx
-│ └── DataProject_Proyecto EDA con Python.docx
+│   └── raw/
+│       ├── bank-additional.csv
+│       ├── customer-details.xlsx
+│       └── DataProject_Proyecto EDA con Python.docx
 │
 └── notebooks/
-└── EDA_Banco.ipynb
-
+    └── EDA_Banco.ipynb
 
 - `data/raw/`: Contiene los archivos originales proporcionados para el análisis.
 - `notebooks/`: Contiene el notebook Jupyter con el análisis exploratorio, visualizaciones y conclusiones.
