@@ -80,6 +80,7 @@ En caso de que no se haya suscrito y el número de contactos sea inferior a 6, s
 
 ```bash
 git clone https://github.com/tu_usuario/EDA_Banco_Python.git
+```
 
 2. Instalar las dependencias necesarias (recomendado usar entorno virtual):
 
