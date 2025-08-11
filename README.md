@@ -20,6 +20,7 @@ EDA_Banco_Python/
 │
 └── notebooks/
     └── EDA_Banco.ipynb
+```
 
 - `data/raw/`: Contiene los archivos originales proporcionados para el análisis.
 - `notebooks/`: Contiene el notebook Jupyter con el análisis exploratorio, visualizaciones y conclusiones.
