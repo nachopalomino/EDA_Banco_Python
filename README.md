@@ -90,6 +90,3 @@ pip install pandas numpy matplotlib seaborn openpyxl
 
 Autor
 Nacho Palomino
-
-Notas
-Este proyecto se realiza como parte del curso de Análisis de Datos y está orientado a demostrar habilidades en limpieza de datos, análisis exploratorio, visualización y redacción de informes.
