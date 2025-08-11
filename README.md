@@ -50,8 +50,27 @@ EDA_Banco_Python/
 
 ### 4. Conclusiones
 
-- Identificación de variables con mayor influencia en la suscripción al producto bancario.
-- Recomendaciones para campañas futuras basadas en los hallazgos.
+ 🔎 Conclusión final sobre el análisis bivariado de las variables (numéricas y categóricas):
+
+Ante el análisis realizado de las variables numéricas y categóricas con su influencia en la suscripción, podemos afirmar que los siguientes
+grupos, características y segmentaciones deben ser incluidas en la realización de próximas campañas con el objetivo de suscripción, 
+al aumentar su tasa de éxito. Cabe destacar que otros grupos, características o segmentaciones pueden ser relevantes para una segunda campaña,
+pues aunque tengan menor tasa de éxito que los incluidos en la primera campaña, podremos obtener mayor número de suscripciones realizando 
+una segunda campaña:
+
+🎯 Grupos, segmentaciones y características de la Campaña "Éxito Garantizado":
+
+1. Cuanto más larga sea la llamada, más probabilidad existirá de convertirla en suscripción.
+2. Establecer un rango óptimo de contactos por cliente de entre 3 y 6. Si el cliente no se ha suscrito tras los 6 contactos, eliminar. 
+En caso de que no se haya suscrito y el número de contactos sea inferior a 6, seguir contactando. No exceder en ningún caso los 6 contactos.
+3. Si el cliente ya ha sido contactado, no deben pasar más de 30 días en volverse a producir el siguiente contacto.
+4. Segmentación por edad: de 65 años en adelante. 
+5. Segmentación por Profesiones: 'Student' y 'Retired'.
+6. Segmentación por Estado Civil: 'Solteros'.
+7. Segmentación por Nivel Educativo: 'University Degree', 'Professional Courses' e 'Illiterate'.
+8. La forma de contactar al cliente debe ser por 'cellular'.
+9. Clientes con el Resultado de la campaña anterior 'Success'.
+10. Clientes sin historial de impagos ('default' = 0).
 
 ---
 
